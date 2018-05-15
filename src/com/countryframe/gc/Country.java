@@ -1,5 +1,9 @@
 package com.countryframe.gc;
 
+/**
+ * @author BenjaminMcBrayer
+ * @version 1.0
+ */
 public class Country {
 	private String countryName;
 

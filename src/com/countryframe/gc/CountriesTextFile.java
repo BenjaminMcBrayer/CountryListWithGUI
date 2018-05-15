@@ -1,5 +1,3 @@
-//Benjamin McBrayer, 5.9.2018
-
 package com.countryframe.gc;
 
 import java.io.BufferedReader;
@@ -14,7 +12,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashSet;
-
+/**
+ * @author BenjaminMcBrayer
+ * @version 1.0
+ */
 public class CountriesTextFile {
 
 	public static void main(String[] args) {

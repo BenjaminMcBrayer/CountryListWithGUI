@@ -14,6 +14,10 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
+/**
+ * @author BenjaminMcBrayer
+ * @version 1.0
+ */
 public class CountryFrame extends JFrame implements ActionListener {
 
 	private static final long serialVersionUID = 1L;
